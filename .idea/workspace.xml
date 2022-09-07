@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d473d487-c65f-41ef-9d99-56cdad6338f0" name="Changes" comment="fc">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Word.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="d473d487-c65f-41ef-9d99-56cdad6338f0" name="Changes" comment="sc">
+      <change afterPath="$PROJECT_DIR$/src/main/java/ICRUD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/WordCRUD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Wordmanager.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +17,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -73,7 +75,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1662458440185</updated>
-      <workItem from="1662458447022" duration="6292000" />
+      <workItem from="1662458447022" duration="6868000" />
     </task>
     <task id="LOCAL-00001" summary="fc">
       <created>1662466257427</created>
@@ -82,7 +84,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662466257427</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="sc">
+      <created>1662524422253</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1662524422253</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -101,6 +110,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="fc" />
-    <option name="LAST_COMMIT_MESSAGE" value="fc" />
+    <MESSAGE value="sc" />
+    <option name="LAST_COMMIT_MESSAGE" value="sc" />
   </component>
 </project>
