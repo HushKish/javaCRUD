@@ -5,3 +5,5 @@
 ![텍스트]()
 
 <img src = "https://github.com/HushKish/javaCRUD/blob/master/screenshot/스크린샷%202022-09-07%20오후%2012.42.22.png?raw=true">
+
+![alt text](https://github.com/HushKish/javaCRUD/blob/master/screenshot/스크린샷%202022-09-07%20오후%203.38.29.png?raw=true)
