@@ -31,6 +31,9 @@ public class Wordmanager {
             else if(menu == 7){
                 wordCRUD.saveFile();
             }
+            else if(menu == 2){
+                wordCRUD.searchLevel();
+            }
 
         }
 
