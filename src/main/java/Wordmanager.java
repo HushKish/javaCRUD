@@ -25,7 +25,7 @@ public class Wordmanager {
                 wordCRUD.updateItem();
             }
             else if(menu == 6){
-                wordCRUD.listAll();
+                wordCRUD.deleteItem();
             }
             else if(menu == 1){
                 wordCRUD.listAll();
