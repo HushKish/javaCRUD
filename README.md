@@ -14,4 +14,4 @@
 <img src = "https://github.com/HushKish/javaCRUD/blob/master/screenshot/s7.png?raw=true">
 <img src = "https://github.com/HushKish/javaCRUD/blob/master/screenshot/s8.png?raw=true">
 
-<img src = "https://github.com/HushKish/javaCRUD/blob/master/screenshot/s9.png?raw=true">
+
