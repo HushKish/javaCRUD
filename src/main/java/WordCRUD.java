@@ -96,7 +96,7 @@ public class WordCRUD implements ICRUD{
     }
     public void loadFile(){
         try{
-            BufferedReader br = new BufferedReader(new FileReader(fname));
+            BufferedReader br = new BufferedReader(new FileReader("test.txt"));
             String line;
             int count = 0;
 
