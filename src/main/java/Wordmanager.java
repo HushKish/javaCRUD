@@ -15,12 +15,22 @@ public class Wordmanager {
         while(true){
             int menu = selectMenu();
             if(menu == 0)break;
-            if(menu == 4){
+            else if(menu == 4){
                 wordCRUD.addWord();
             }
-            if(menu == 1){
+            else if(menu == 1){
                 wordCRUD.listAll();
             }
+            else if(menu == 5){
+                wordCRUD.updateItem();
+            }
+            else if(menu == 6){
+                wordCRUD.listAll();
+            }
+            else if(menu == 1){
+                wordCRUD.listAll();
+            }
+
         }
 
     }

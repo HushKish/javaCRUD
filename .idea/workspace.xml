@@ -4,16 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d473d487-c65f-41ef-9d99-56cdad6338f0" name="Changes" comment="tc">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+    <list default="true" id="d473d487-c65f-41ef-9d99-56cdad6338f0" name="Changes" comment="4c">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ICRUD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ICRUD.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Word.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Word.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/WordCRUD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/WordCRUD.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Wordmanager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Wordmanager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/big.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/test.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,7 +86,8 @@
       <workItem from="1662458447022" duration="8023000" />
       <workItem from="1662526387503" duration="10000" />
       <workItem from="1662526419655" duration="2002000" />
-      <workItem from="1662529987181" duration="1763000" />
+      <workItem from="1662529987181" duration="3218000" />
+      <workItem from="1663033424034" duration="2686000" />
     </task>
     <task id="LOCAL-00001" summary="fc">
       <created>1662466257427</created>
@@ -115,7 +110,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662524990568</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="4c">
+      <created>1662532585101</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1662532585101</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -136,6 +138,7 @@
     <MESSAGE value="fc" />
     <MESSAGE value="sc" />
     <MESSAGE value="tc" />
-    <option name="LAST_COMMIT_MESSAGE" value="tc" />
+    <MESSAGE value="4c" />
+    <option name="LAST_COMMIT_MESSAGE" value="4c" />
   </component>
 </project>
